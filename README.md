@@ -29,7 +29,7 @@ This project is an interactive web dashboard built with [Streamlit](https://stre
 
 3. **Ensure Model File is Present**
 
-   Make sure the `titanic3.pkl` file (the trained model) is in the same directory as `dashboard.py`.
+   Make sure the `titanic2.pkl` file (the trained model) is in the same directory as `dashboard.py`.
 
 4. **Run the Streamlit App**
 
@@ -47,7 +47,7 @@ This project is an interactive web dashboard built with [Streamlit](https://stre
 
 ```
 dashboard.py
-titanic3.pkl
+titanic2.pkl
 ```
 
 - `dashboard.py`: Main Streamlit app file.
